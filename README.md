@@ -12,7 +12,7 @@
 http://localhost:3000/users
 
 //获取用户id为1的信息
-http://localhost:3000/users/1
+http://localhost:3000/users/1,
 
 //获取公司的所有信息
 http://localhost:3000/companies

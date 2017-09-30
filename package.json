@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "json:server:remote":"json-server http://jsonplaceholder.typicode.com/db --port 3030"
   },
   "author": "",
   "license": "ISC",

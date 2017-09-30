@@ -1,52 +1,53 @@
 {
-  "users":[
+  "users": [
     {
-      "name" : "Henry",
-      "phone" : "333-444-555",
-      "email" : "henry@gmail.com",
-      "id" : 1,
-      "age" : 30,
-      "companyId" : 1
+      "name": "Henry",
+      "phone": "333-444-555",
+      "email": "henry@gmail.com",
+      "id": 1,
+      "age": 30,
+      "companyId": 1
     },
     {
-      "name" : "Ben",
-      "phone" : "333-444-555",
-      "email" : "ben@gmail.com",
-      "id" : 2,
-      "age" : 33,
-      "companyId" : 2
-    },{
-      "name" : "Randy",
-      "phone" : "111-222-333",
-      "email" : "randy@gmail.com",
-      "id" : 3,
-      "age" : 35,
-      "companyId" : 3
-    },{
-      "name" : "Joke",
-      "phone" : "666-777-888",
-      "email" : "joke@gmail.com",
-      "id" : 4,
-
-      "age" : 43,
-      "companyId" : 3
+      "name": "Ben",
+      "phone": "333-444-555",
+      "email": "ben@gmail.com",
+      "id": 2,
+      "age": 33,
+      "companyId": 2
+    },
+    {
+      "name": "李鑫",
+      "phone": "111-222-333",
+      "email": "randy@gmail.com",
+      "id": 3,
+      "age": 35,
+      "companyId": 3
+    },
+    {
+      "name": "Joke",
+      "phone": "666-777-888",
+      "email": "joke@gmail.com",
+      "id": 4,
+      "age": 43,
+      "companyId": 3
     }
   ],
-  "companies" : [
+  "companies": [
     {
-      "id" : 1,
-      "name" : "Apple",
-      "description" : "Apple is good"
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
     },
     {
-      "id" : 2,
-      "name" : "BaiDu",
-      "description" : "BaiDu is good"
+      "id": 2,
+      "name": "BaiDu",
+      "description": "BaiDu is good"
     },
     {
-      "id" : 3,
-      "name" : "Sina",
-      "description" : "Sina is good"
+      "id": 3,
+      "name": "Sina",
+      "description": "Sina is good"
     }
   ]
 }
